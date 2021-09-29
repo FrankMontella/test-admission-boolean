@@ -1,0 +1,41 @@
+.sfondo{
+  background-image: url(boolean/background.jpg);
+  width: 1940px;
+  height: 1270px;
+  text-align: center;
+  margin: 100px;
+}
+
+
+
+
+
+.box {
+  box-sizing: border-box;
+  padding: 305px;
+  width: 1940px;
+  height: 300px;
+  border: solid;
+  margin: 100px;
+  background-color: rgba(238, 238, 228, 0.7);
+}
+
+
+.logolim{;
+  width: 300px;
+  left: 600px;
+  margin: 10px 550px 30px;
+}
+
+h3 {
+  text-align: center;
+  color: #00cc00;
+}
+
+
+
+.comandi{
+  background-color: #00cc00;
+  height: 30px;
+  margin: 100px;
+}
